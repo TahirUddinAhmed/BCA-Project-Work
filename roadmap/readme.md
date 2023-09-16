@@ -28,7 +28,7 @@
 
  - [HTML](https://www.w3schools.com/html/html_intro.asp)
  - [CSS](https://www.freecodecamp.org/learn/responsive-web-design/)
- - [Javascript](https://www.w3schools.com/js/)
+ - [Javascript](https://javascript.info/)
  - [Bootstrap](https://youtu.be/-qfEOE4vtxE?si=FLx8XvNXp178MmEa)
 
  ### Backend
