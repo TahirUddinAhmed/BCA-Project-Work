@@ -1,5 +1,5 @@
-# Hello Everyone Welcome
-
+# Hello Everyone 
+Here are some of the project ideas that you can pick for your next project as a web developer and a android developer, and I also share a basic Roadmap for <b>web developement</b>
 ## Project Ideas: 
  ### Websites
  - Build any existing system clone
@@ -30,6 +30,7 @@
  - [CSS](https://www.freecodecamp.org/learn/responsive-web-design/)
  - [Javascript](https://javascript.info/)
  - [Bootstrap](https://youtu.be/-qfEOE4vtxE?si=FLx8XvNXp178MmEa)
+ - [Responsive Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
  ### Backend
   #### Learn any one language 
@@ -39,4 +40,9 @@
 
  #### Database 
    - [MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
+
+
+Contact Me: 
+[Twitter](https://twitter.com/TahirUddinAhmed)
 
